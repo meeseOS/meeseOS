@@ -38,7 +38,7 @@
     "@meese-os/common": "workspace:*",
     "hexells": "^1.2.1",
     "vanta": "^0.5.24",
-    "three": "^0.152.2"
+    "three": "^0.173.0"
   },
   "meeseOS": {
     "type": "package"
