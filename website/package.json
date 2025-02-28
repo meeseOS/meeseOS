@@ -85,7 +85,7 @@
     "dotenv": "^16.3.1",
     "hyperapp": "^1.2.10",
     "typeface-roboto": "^1.1.13",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "complex-dotenv-json": "^1.1.0"
   },
   "engines": {
